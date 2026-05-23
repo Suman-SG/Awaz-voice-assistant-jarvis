@@ -6,3 +6,5 @@ __pycache__/
 pyvenv.cfg
 .pytest_cache/
 .mypy_cache/
+notes.txt
+command_history.txt

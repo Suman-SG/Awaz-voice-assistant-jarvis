@@ -1,0 +1,17 @@
+{
+  "ASSISTANT_ENABLED": true,
+  "WAKE_WORDS": [
+    "jarvis",
+    "hey jarvis",
+    "ok jarvis"
+  ],
+  "LISTEN_TIMEOUT": 8,
+  "COMMAND_TIMEOUT": 6,
+  "NOTE_PHRASE_TIME_LIMIT": 6,
+  "SPEECH_RATE": 170,
+  "SPEECH_VOLUME": 1.0,
+  "SPEECH_VOICE_INDEX": 0,
+  "SPEAK_BUFFER_DELAY": 0.8,
+  "NOTE_MAX_LENGTH": 200,
+  "MATCH_THRESHOLD": 50
+}
